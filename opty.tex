@@ -51,6 +51,7 @@
 
 
 \begin{frame}{Motywacja do stosowania LDA}
+    \small
     Wyobraźmy sobie, że mamy dwie klasy (np. Klasa A i Klasa B), które chcemy skutecznie od siebie oddzielić. Każda klasa może być opisana przez wiele różnych cech, takich jak:
     \begin{itemize}
         \item Wzrost, waga,
@@ -62,13 +63,19 @@
     **Problem z jedną cechą:** Jeśli użyjemy tylko jednej cechy (np. wzrostu), klasy mogą częściowo się nakładać. Nie będziemy w stanie jednoznacznie przypisać danych punktów do jednej z klas.
 
     \bigskip
-    \textbf{Przykład:} Przykład danych w przestrzeni 1D, gdzie klasy nachodzą na siebie.
+    \textbf{Przykład:} Przykład danych 	w przestrzeni 1D, gdzie klasy nachodzą na siebie.
     
     \bigskip
     \includegraphics[width=0.7\textwidth]{overlapping.png} 
+
 \end{frame}
 
 
+\begin{frame}{Motywacja do stosowania LDA}
+	\centering
+	\ Docelowo chcemy rzutować punkty na linię prostą eliminując wymiar
+    \includegraphics[width=1\textwidth]{ss.png} 
+\end{frame}
 
 
 
@@ -89,7 +96,7 @@
 
 
 
-\begin{frame}{Zasada działania LDA}
+\begin{frame}{Sposób działania}
     LDA tworzy nową oś, na którą rzutuje dane z przestrzeni 2D, aby lepiej oddzielić dwie klasy.
 
     \bigskip
@@ -445,12 +452,10 @@
         \item Fisher, R. A. (1936). "The Use of Multiple Measurements in Taxonomic Problems". \textit{Annals of Eugenics}.
         \item Bishop, C. M. (2006). "Pattern Recognition and Machine Learning". \textit{Springer}.
         \item James, G., Witten, D., Hastie, T., \& Tibshirani, R. (2013). "An Introduction to Statistical Learning". \textit{Springer}.
-<<<<<<< HEAD
-        \item Katarzyna Stąpor  https://homenda.mini.pw.edu.pl/pages/common/Profesor_Katarzyna_Stapor.pdf
-=======
+
         \item Towards Data Science. (2020, August 10). Linear Discriminant Analysis (LDA). Towards Data Science. https://towardsdatascience.com/linear-discriminant-analysis-lda-598d8e90f8b9
         \item GeeksforGeeks. (n.d.). ML | Linear Discriminant Analysis. GeeksforGeeks. https://www.geeksforgeeks.org/ml-linear-discriminant-analysis/
->>>>>>> 4dcb39dfb8851756e08debd21516e8d797d8b50a
+		4dcb39dfb8851756e08debd21516e8d797d8b50a
     \end{itemize}
 \end{frame}
 
