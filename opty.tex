@@ -16,7 +16,7 @@
 \setbeamercolor{background canvas}{bg=white} % Białe tło
 
 \title{Fisherowska dyskryminacja liniowa – zastosowanie dla nowych danych}
-\author{Imię i Nazwisko}
+\author{Marcin Samojluk , Gabriel Rączkowski}
 \date{\today}
 
 \begin{document}
@@ -202,36 +202,6 @@
 
 
 
-
-
-
-% Slajd: Rozwiązanie równania
-\begin{frame}
-    \frametitle{Rozwiązanie równania}
-    Z równania \(\nabla J(\mathbf{w}) = 0\) wynika, że optymalny \(\mathbf{w}\) musi spełniać:
-    \[
-    S_W^{-1} S_B \mathbf{w} = \lambda \mathbf{w}
-    \]
-    Gdzie \(\lambda\) to wartość własna układu. Rozwiązaniem jest:
-    \begin{itemize}
-        \item \(\mathbf{w}\) - wektor własny macierzy \(S_W^{-1} S_B\),
-        \item \(\lambda\) - odpowiadająca wartość własna.
-    \end{itemize}
-    Wybieramy \(\mathbf{w}\), które odpowiada największej \(\lambda\) (największemu rozróżnieniu między klasami).
-\end{frame}
-
-% Slajd: Optymalny wektor
-\begin{frame}
-    \frametitle{Optymalny wektor \(\mathbf{w}\)}
-    Podsumowanie:
-    \begin{itemize}
-        \item Macierz \(S_W^{-1} S_B\) reprezentuje relację między klasami i zmiennością danych.
-        \item Wektor \(\mathbf{w}\) odpowiada największej wartości własnej macierzy \(S_W^{-1} S_B\).
-        \item Ten wektor \(\mathbf{w}\) maksymalizuje rozróżnienie między klasami w projekcji na linię.
-    \end{itemize}
-\end{frame}
-
-
 \begin{frame}{Wektory Własne w LDA}
     W metodzie Linear Discriminant Analysis (LDA), kluczowym zadaniem jest znalezienie odpowiednich kierunków w przestrzeni, które najlepiej oddzielają dane.
     Te kierunki są reprezentowane przez **wektory własne**.
@@ -344,19 +314,6 @@
 \end{frame}
 
 
-
-% Slajd 5: Rozróżnianie między klasami
-\begin{frame}
-    \frametitle{Rozróżnianie między klasami}
-    Fisherowska dyskryminacja liniowa dąży do znalezienia najlepszego wektora \( \mathbf{w} \), który maksymalizuje rozróżnienie między klasami. Celem jest:
-    \begin{itemize}
-        \item Projektowanie przestrzeni, w której różnice między klasami są jak najbardziej widoczne.
-        \item Projekcja danych na wektor \( \mathbf{w} \) pozwala na łatwiejsze przypisanie nowych danych do odpowiednich klas.
-    \end{itemize}
-\end{frame}
-
-
-
 % Slajd 6: Przykład zastosowania w klasyfikacji roślin
 \begin{frame}
     \frametitle{Przykład zastosowania}
@@ -397,7 +354,7 @@
     LDA jest także używane w medycynie, np. w klasyfikacji przypadków chorób:
     \begin{itemize}
         \item Zbieramy dane o pacjentach, np. wyniki badań krwi, ciśnienie.
-        \item LDA pomaga oddzielić pacjentów zdrowych od chorych na podstawie cech medycznych.
+        \item LDA pomaga oddzielić pacjentów zdrowych od chorych na podstawie cech medycznych (przykład w R).
     \end{itemize}
 \end{frame}
 
@@ -429,6 +386,8 @@
         \item Fisher, R. A. (1936). "The Use of Multiple Measurements in Taxonomic Problems". \textit{Annals of Eugenics}.
         \item Bishop, C. M. (2006). "Pattern Recognition and Machine Learning". \textit{Springer}.
         \item James, G., Witten, D., Hastie, T., \& Tibshirani, R. (2013). "An Introduction to Statistical Learning". \textit{Springer}.
+        \item Towards Data Science. (2020, August 10). Linear Discriminant Analysis (LDA). Towards Data Science. https://towardsdatascience.com/linear-discriminant-analysis-lda-598d8e90f8b9
+        \item GeeksforGeeks. (n.d.). ML | Linear Discriminant Analysis. GeeksforGeeks. https://www.geeksforgeeks.org/ml-linear-discriminant-analysis/
     \end{itemize}
 \end{frame}
 
