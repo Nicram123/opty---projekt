@@ -68,6 +68,38 @@
 
 
 
+\begin{frame}{Założenia Linearnej Analizy Dyskryminacyjnej (LDA)}
+    \frametitle{Założenia LDA}
+    LDA opiera się na kilku kluczowych założeniach:
+    \begin{itemize}
+        \item \textbf{Rozkład Gaussa:} Dane w każdej klasie są rozkładane normalnie (Gaussowsko).
+        \item \textbf{Równość macierzy kowariancji:} Macierze kowariancji dla różnych klas są równe.
+        \item \textbf{Liniowa rozdzielność:} Istnieje liniowa granica decyzyjna, która może rozdzielić różne klasy.
+    \end{itemize}
+    
+    \textit{Założenia te mogą nie zawsze być spełnione w rzeczywistych danych, co wpływa na skuteczność LDA.}
+\end{frame}
+
+
+
+
+
+
+\begin{frame}{Zasada działania LDA}
+    LDA tworzy nową oś, na którą rzutuje dane z przestrzeni 2D, aby lepiej oddzielić dwie klasy.
+
+    \bigskip
+    LDA stara się:
+    \begin{itemize}
+        \item Maksymalizować odległość między średnimi dwóch klas,
+        \item Minimalizować rozproszenie punktów wewnątrz każdej klasy.
+    \end{itemize}
+    
+    \bigskip
+    \includegraphics[width=0.8\textwidth]{sciezka_do_obrazka.png}  % Wstaw odpowiednią ścieżkę do obrazka
+\end{frame}
+
+
 
 
 
@@ -372,6 +404,29 @@
         \item \( b \) to przesunięcie (odległość od początku układu współrzędnych).
     \end{itemize}
 \end{frame}
+
+
+\begin{frame}{Zalety i wady korzystania z LDA}
+    \frametitle{Zalety i wady korzystania z LDA}
+    
+    \textbf{Zalety:}
+    \begin{itemize}
+        \item Prosty i wydajny obliczeniowo algorytm.
+        \item Może działać dobrze nawet przy dużej liczbie cech w porównaniu do liczby próbek treningowych.
+        \item Potrafi uwzględnić multikolinearność (korelację między cechami) w danych.
+    \end{itemize}
+    
+    \bigskip
+    
+    \textbf{Wady:}
+    \begin{itemize}
+        \item Zakłada, że dane mają rozkład Gaussa, co nie zawsze jest prawdą.
+        \item Zakłada, że macierze kowariancji różnych klas są równe, co nie musi być prawdą w przypadku niektórych zbiorów danych.
+        \item Zakłada, że dane są liniowo rozdzielne, co nie musi być prawdą w przypadku niektórych zbiorów danych.
+        \item Może nie działać dobrze w przestrzeniach cech o dużej liczbie wymiarów.
+    \end{itemize}
+\end{frame}
+
 
 % Slajd 11: Wnioski
 \begin{frame}
