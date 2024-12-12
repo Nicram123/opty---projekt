@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.6)  12 DEC 2024 22:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.6)  12 DEC 2024 22:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -807,20 +807,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 <
-      <<<<<< HEAD
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 2
-6.
+5.
+
 (C:\Users\NotAS\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -832,24 +821,24 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (opty.aux)
 \openout1 = `opty.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -911,57 +900,57 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 25.
  (opty.out) (opty.out)
 \@outlinefile=\write5
 \openout5 = `opty.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 26.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 26.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 26.
+(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 25.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 26.
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 26.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 26.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 26.
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 26.
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 26.
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 26.
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 26.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 26.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 26.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 26.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 26.
+(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 26.
+(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 26.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 26.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 26.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 25.
 
 (C:\Users\NotAS\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
 asic-dictionary-English.dict
@@ -986,61 +975,58 @@ Dictionary: translator-numbers-dictionary, Language: English
 (C:\Users\NotAS\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-t
 heorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (opty.nav)
-Overfull \vbox (25.6pt too high) has occurred while \output is active []
-
- [1
+) (opty.nav) [1
 
 {C:/Users/NotAS/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/NotA
 S/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
-41.
+40.
 
 (C:\Users\NotAS\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
-1.
+0.
 
 (C:\Users\NotAS\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-41.
+40.
 
 (C:\Users\NotAS\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-41.
+40.
 
 (C:\Users\NotAS\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 41.
+(Font)              <10.95> on input line 40.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 41.
+(Font)              <8> on input line 40.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 41.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
+(Font)              <6> on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
 
 
 (C:\Users\NotAS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
 
 
 (C:\Users\NotAS\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 41.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 40.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 41.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 40.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 41.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 40.
 
 [2
 
@@ -1048,120 +1034,96 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 71.
+(Font)              <10> on input line 70.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 71.
+(Font)              <7> on input line 70.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 71.
+(Font)              <5> on input line 70.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 71.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 70.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 71.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 70.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 71.
-<overlapping.png, id=94, 501.072pt x 69.861pt>
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 70.
+<overlapping.png, id=93, 501.072pt x 69.861pt>
 File: overlapping.png Graphic file (type png)
 <use overlapping.png>
-Package pdftex.def Info: overlapping.png  used on input line 71.
+Package pdftex.def Info: overlapping.png  used on input line 70.
 (pdftex.def)             Requested size: 215.10196pt x 29.9906pt.
  [4
 
  <./overlapping.png>]
-<ss.png, id=123, 645.612pt x 204.765pt>
+<ss.png, id=122, 645.612pt x 204.765pt>
 File: ss.png Graphic file (type png)
 <use ss.png>
-Package pdftex.def Info: ss.png  used on input line 78.
+Package pdftex.def Info: ss.png  used on input line 79.
 (pdftex.def)             Requested size: 307.28987pt x 97.46121pt.
  [5
 
  <./ss.png>] [6
 
 ]
-
-LaTeX Warning: File `sciezka_do_obrazka.png' not found on input line 111.
-
-
-! Package pdftex.def Error: File `sciezka_do_obrazka.png' not found: using draf
-t setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.111 \end{frame}
-                 
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-11.
-(C:\Users\NotAS\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Overfull \vbox (95.23958pt too high) detected at line 111
- []
-
-[7
-
-]
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10.95> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 139.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 113.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <8> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 139.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 113.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <6> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 139.
- [8
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 113.
+ [7
 
 {C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 155.
+(Font)              <14.4> on input line 129.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <14.4> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 155.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 155.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <7> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 155.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 129.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 155.
- [9
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 129.
+ [8
 
 {C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}
-] [10
+] [9
 
 {C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}
 {C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}
+] [10
+
 ] [11
 
 ] [12
 
-] [13
-
-] [14
+]
+[13
 
 ]
-<unity_transf_unity.png, id=388, 1109.3445pt x 501.072pt>
+<unity_transf_unity.png, id=361, 1109.3445pt x 501.072pt>
 File: unity_transf_unity.png Graphic file (type png)
 <use unity_transf_unity.png>
-Package pdftex.def Info: unity_transf_unity.png  used on input line 276.
+Package pdftex.def Info: unity_transf_unity.png  used on input line 250.
 (pdftex.def)             Requested size: 245.83282pt x 111.03899pt.
- [15
+ [14
 
- <./unity_transf_unity.png>] [16
+ <./unity_transf_unity.png>] [15
+
+] [16
 
 ] [17
 
 ]
-[18
-
-]
-<rys.png, id=491, 564.30824pt x 341.47575pt>
+<rys.png, id=464, 564.30824pt x 341.47575pt>
 File: rys.png Graphic file (type png)
 <use rys.png>
-Package pdftex.def Info: rys.png  used on input line 357.
+Package pdftex.def Info: rys.png  used on input line 331.
 (pdftex.def)             Requested size: 245.83282pt x 148.75958pt.
- [19
+ [18
 
- <./rys.png>] [20
+ <./rys.png>] [19
+
+]
+[20
 
 ] [21
 
@@ -1174,8 +1136,6 @@ Package pdftex.def Info: rys.png  used on input line 357.
 ] [25
 
 ] [26
-
-] [27
 
 ]
 \tf@nav=\write6
@@ -1196,31 +1156,29 @@ Package rerunfilecheck Info: File `opty.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21944 strings out of 474486
- 423725 string characters out of 5743755
+ 21868 strings out of 474486
+ 422019 string characters out of 5743755
  1935542 words of memory out of 5000000
- 43692 multiletter control sequences out of 15000+600000
- 644972 words of font info for 97 fonts, out of 8000000 for 9000
+ 43622 multiletter control sequences out of 15000+600000
+ 644653 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,123p,381b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\NotAS\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss
-1095.pk><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lme
-x10.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmm
-i10.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lms
-s10.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lms
-s12.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lms
-s8.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss
-bx10.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lm
-sso10.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
-msso12.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
-lmsso8.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
-lmsy10.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
-lmsy8.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
-mtt10.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/symbols/msam10.pfb>
-Output written on opty.pdf (27 pages, 1588362 bytes).
+<C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pf
+b><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pf
+b><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pf
+b><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pf
+b><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb
+><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.p
+fb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.
+pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12
+.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso8
+.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10
+.pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.
+pfb><C:/Users/NotAS/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/s
+ymbols/msam10.pfb>
+Output written on opty.pdf (26 pages, 1550838 bytes).
 PDF statistics:
- 825 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
+ 765 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
